@@ -24,7 +24,7 @@ Check out my profiles: LinkedIn | GitHub | Email
 </p>
 <details>
   <summary>GitHub Stats ⚡</summary><br/>
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=4ADE80&fire=A78BFA&currStreakLabel=4ADE80&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![](https://streak-stats.demolab.com?user=SANJAY S&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=4ADE80&fire=A78BFA&currStreakLabel=4ADE80&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=4ade80&label=PROFILE+VIEWS)
 ![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=181717&logo=github&label=Followers)
 </details>
