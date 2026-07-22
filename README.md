@@ -20,6 +20,22 @@
 📍 Karur, Tamil Nadu, India
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay200608&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay200608&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay200608&theme=tokyonight"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjay200608/Sanjay200608/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 💻 Tech Stack
 
