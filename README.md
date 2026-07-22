@@ -1,155 +1,213 @@
 <h1 align="center">Hi 👋, I'm Sanjay S</h1>
-<h3 align="center">Electronics & Communication Engineering Student | AI Enthusiast | Java & Python Developer</h3>
+
+<h3 align="center">
+Electronics & Communication Engineering Student | AI Enthusiast | Java & Python Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Java+%7C+Python+Developer;Blockchain+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;AI+Developer;Java+%7C+Python+Programmer;Blockchain+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.E. Electronics & Communication Engineering Student (Expected 2027)
+🎓 B.E Electronics & Communication Engineering Student
 
-💡 Passionate about Artificial Intelligence, Blockchain, and Software Development
-
-🌱 Currently learning Data Structures, Machine Learning, and Advanced Java
-
-🚀 Interested in building AI-powered applications that solve real-world problems
+🏫 V.S.B Engineering College, Karur
 
 📍 Karur, Tamil Nadu, India
 
----
-## 📊 GitHub Stats
+💡 Passionate about Artificial Intelligence, Blockchain and Software Development.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay200608&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay200608&layout=compact&theme=tokyonight"/>
-</p>
+🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay200608&theme=tokyonight"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjay200608/Sanjay200608/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-## 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-- MATLAB
-- MS Office
-
----
-
-## 🚀 Projects
-
-### 🚨 Smart Accident Detection & Alert System
-
-**Tech Stack:** Python • AI • Sensors
-
-- Detects road accidents using AI and sensor data
-- Sends automatic alerts to emergency contacts
-- Improves emergency response time
-
----
-
-### 🔐 Identity Verification System Using Blockchain
-
-**Tech Stack:** Blockchain • Python • SQL
-
-- Built decentralized identity verification system
-- Tamper-proof digital records
-- Secure and transparent identity management
-
----
-
-## 💼 Internship
-
-### Java Programming Intern
-
-**Infosys Springboard (Remote)**
-
-- Learned Core Java
-- Object-Oriented Programming
-- Data Structures
-- Software Development Fundamentals
-
----
-
-## 🏆 Certifications
-
-- ☕ Java Programming – Infosys Springboard
-- 🐍 Python Programming – Infosys Springboard
-- 🤖 Introduction to Artificial Intelligence – Infosys Springboard
-- 💬 Communication Skills – Infosys Springboard
-
----
-
-## 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
 - Data Structures & Algorithms
+- Machine Learning
 - Blockchain
-- Problem Solving
+- Java Development
+
+🎯 Goal
+
+Become an AI Engineer and Software Developer.
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay200608&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 💼 Projects
+
+## 🚨 Smart Accident Detection and Alert System
+
+**Tech Used**
+
+- Python
+- Artificial Intelligence
+- Sensors
+
+### Features
+
+- Real-time accident detection
+- AI based analysis
+- Automatic emergency alerts
+- Faster emergency response
+
+---
+
+## 🔐 Identity Verification System Using Blockchain
+
+**Tech Used**
+
+- Blockchain
+- Python
+- SQL
+
+### Features
+
+- Tamper-proof identity records
+- Secure verification
+- Decentralized architecture
+- Transparent identity management
+
+---
+
+# 💻 Internship
+
+## Java Programming Intern
+
+**Infosys Springboard**
+
+- Core Java
+- OOP
+- Data Structures
+- Software Development
+
+---
+
+# 🏆 Certifications
+
+✅ Java Programming – Infosys Springboard
+
+✅ Python Programming – Infosys Springboard
+
+✅ Introduction to Artificial Intelligence – Infosys Springboard
+
+✅ Communication Skills – Infosys Springboard
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay200608&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay200608&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay200608&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay200608&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sanjay200608/Sanjay200608/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 Activity Graph
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/Sanjay200608">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay200608&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjay200608&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
 
 <a href="mailto:sanjaisanjai0064@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Sanjay200608">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-## 🎯 Career Objective
+# 👀 Profile Views
 
-> Passionate Electronics and Communication Engineering student with strong foundations in Java, Python, SQL, Artificial Intelligence, and Blockchain. Seeking opportunities to contribute to innovative software and AI projects while continuously learning emerging technologies.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sanjay200608&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> "Learning never exhausts the mind. Build today for a better tomorrow."
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ Thanks for visiting my profile ⭐
+
 </p>
