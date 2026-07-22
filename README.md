@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,22&height=200&section=header&text=Sanjay%20S&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20AI%20%26%20Python%20Enthusiast%20%7C%20Blockchain%20Explorer&descAlignY=62&descSize=16" alt="Sanjay Banner" width="100%" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIyMDAiIHZpZXdCb3g9IjAgMCAxMjAwIDIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGYyMDI3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjMTY0NTJlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFjMWMzYyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjAwIiByeD0iMCIgZmlsbD0idXJsKCNiZykiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjQyJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIFNlZ29lIFVJLCBzYW5zLXNlcmlmIgogICAgICAgIGZvbnQtc2l6ZT0iNDYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmZmZmYiPlNhbmpheSBTPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNjIlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSwgU2Vnb2UgVUksIHNhbnMtc2VyaWYiCiAgICAgICAgZm9udC1zaXplPSIxNiIgZmlsbD0iIzlkZTNiOCI+RUNFIFVuZGVyZ3JhZCAmIzE2MDt8JiMxNjA7IEFJICZhbXA7IFB5dGhvbiBFbnRodXNpYXN0ICYjMTYwO3wmIzE2MDsgQmxvY2tjaGFpbiBFeHBsb3JlcjwvdGV4dD4KPC9zdmc+Cg==" alt="Sanjay Banner" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sanjay+S+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%26+Python+Developer;Building+Blockchain+%26+AI-Based+Systems;Exploring+Data+Structures+%26+Algorithms;Open+to+AI+%2F+Python+%2F+Java+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
@@ -24,7 +24,7 @@ Check out my profiles: LinkedIn | GitHub | Email
 </p>
 <details>
   <summary>GitHub Stats ⚡</summary><br/>
-![](https://streak-stats.demolab.com?user=SANJAY S&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=4ADE80&fire=A78BFA&currStreakLabel=4ADE80&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=4ADE80&fire=A78BFA&currStreakLabel=4ADE80&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=4ade80&label=PROFILE+VIEWS)
 ![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=181717&logo=github&label=Followers)
 </details>
@@ -106,7 +106,7 @@ Willingness: Open to relocation and learning new technologies
 ---
 > **Building intelligent systems — from AI-driven analysis to secure blockchain architectures.**
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,17,22&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAiIHZpZXdCb3g9IjAgMCAxMjAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMWMxYzNjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjMTY0NTJlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBmMjAyNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMTAwIiBmaWxsPSJ1cmwoI2ZnKSIvPgo8L3N2Zz4K" width="100%"/>
 </p>
 <!--
 =====================================================================
@@ -115,6 +115,13 @@ SETUP NOTES (delete this comment block once done — GitHub won't render it)
 
 1) REPO NAME — this README only renders as your profile page if it lives
    in a repo named EXACTLY your GitHub username (e.g. github.com/sanjays/sanjays).
+
+0) SINGLE FILE — the header/footer banners are embedded directly as base64
+   SVG data URIs in this README.md, so there's nothing extra to upload or
+   commit for them. They replace capsule-render.vercel.app, which was
+   returning a server error at the time this file was made — this keeps
+   your banner working regardless of that third-party service's uptime.
+   Just commit this one README.md and you're done with the banners.
 
 2) REPLACE PLACEHOLDERS — swap YOUR_GITHUB_USERNAME (appears in the Stats
    section) and the GitHub/LinkedIn links with your real URLs.
