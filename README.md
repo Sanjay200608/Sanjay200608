@@ -28,24 +28,3 @@ const profile = {
   motto: "Turning ideas into intelligent digital solutions ✨",
 };
 ```
-
-### 🌱 Currently Learning
-- ⚛️ React + TypeScript
-- 🐍 FastAPI
-- 🗄️ PostgreSQL
-- ☁️ Cloud Computing
-- 🤖 Artificial Intelligence
-- 🚀 DevOps & Deployment
-
-### 💼 Working On
-- 🎬 AI Movie Booking Platform
-- 💳 SmartPay AI
-- 🎹 SpeedType – Typing Music Game
-- 🤖 AI-Powered Web Applications
-
-### 📫 Connect With Me
-- 💼 LinkedIn: *Add your LinkedIn profile*
-- 🌐 Portfolio: *Coming Soon*
-- 📧 Email: *Add your email*
-
-> **"Code. Learn. Build. Repeat." 🚀**
